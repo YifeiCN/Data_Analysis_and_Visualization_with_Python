@@ -7,3 +7,6 @@ This is a tutorial for learning data analysis and visualization with Python.
 ## pandas
 
 ## Matplotlib
+
+## PIL
+
